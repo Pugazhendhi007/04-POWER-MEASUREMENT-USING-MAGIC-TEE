@@ -65,12 +65,13 @@ power coupled to thecollinear to that in the main arm, in dB. This value is arou
 
 **Isolation measurement** (Tabulation)
 
-![WhatsApp Image 2025-11-16 at 18 32 58_09088b4a](https://github.com/user-attachments/assets/7432d689-d492-4489-83f5-93f541117006)
 
+![WhatsApp Image 2025-11-17 at 23 24 14_3a429a6c](https://github.com/user-attachments/assets/cfa8a63d-5a6f-447b-a471-56b079994556)
 
 **Measurement of power division** (Tabulation)
+![WhatsApp Image 2025-11-17 at 23 24 47_cd22f6c4](https://github.com/user-attachments/assets/74b5ceea-034b-4781-8d30-03632833b421)
 
-![WhatsApp Image 2025-11-16 at 18 32 59_4730b2c1](https://github.com/user-attachments/assets/e0eccd5d-fb9d-4ca3-b1ba-7945f174db79)
+
 
 
 **G.	Analysis of Results:**
